@@ -1,4 +1,4 @@
-# Vaccination💉 Centre🏥 & Availability Checker🔍  
+# Vaccination💉 Centre & Availability Checker 
 
 ## Usage:-
 
